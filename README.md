@@ -50,4 +50,17 @@ Better to work around it than do nothing at all.
 - keep on it
 
 
+## Tekton: From source to production inside Kubernetes - Giovanni Galloro
+Task CRD, composed via Pipeline Custom Resource Definition.
+
+Parametrize the tasks.
+
+Kaniko to build images inside containers, completely userspace https://github.com/GoogleContainerTools/kaniko
+
+CI in Tekton - configure a web hook from the repo that triggers the pipeline run.
+
+There is also a dashboard í ½í¸…
+
+
+
 
