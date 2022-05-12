@@ -83,6 +83,26 @@ But mostly it's just code -> build -> code etc.
 - Mean Time to Restore: If something goes wrong, how long does it take to restore or rollback
 - Change Fail Percentage
 
+### The Hare and the Tortoise - Open Source, Standards and Technical Debt - Raphaël Pinson
+
+The more technical the team, the more you get the Not Invented Here syndrome (can attest).
+
+Idea: contribute more actively to the existing software. Set standards even?
+
+Anecdote: Shared libraries in Linux break printing in KDE.
+
+### Immutability encourages loose coupling
+
+### Cloud providers to the rescue?
+The more you lean into one cloud provider's API, the more you will depend on
+them in the future.
+
+### Team Topologies
+
+### Tortoise vs Hare
+How close are you to the state of the art so that you can get there when a
+security issue comes up.
+
 
 
 
