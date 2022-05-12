@@ -59,7 +59,10 @@ Kaniko to build images inside containers, completely userspace https://github.co
 
 CI in Tekton - configure a web hook from the repo that triggers the pipeline run.
 
-There is also a dashboard í ½í¸…
+There is also a dashboard
+
+## Advanced Authentication patters at the Edge - Denis Jannot
+
 
 
 
