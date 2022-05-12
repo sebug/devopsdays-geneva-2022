@@ -77,6 +77,12 @@ The feedback loop Code -> Build -> Test -> Release -> Deploy -> Operate -> Monit
 
 But mostly it's just code -> build -> code etc.
 
+### Things to measure
+- Lead time: Commit to production
+- Deployment Frequency: How many deployments per day
+- Mean Time to Restore: If something goes wrong, how long does it take to restore or rollback
+- Change Fail Percentage
+
 
 
 
