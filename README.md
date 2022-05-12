@@ -68,6 +68,15 @@ Envoy: filter chain
 
 OPA - Open Policy Agent for authentication.
 
+## Closing the feedback loop for infrastructure development - Max Andersson
+
+A lot of people using Gitlab. They are also mostly spending less than 10 minutes
+per day waiting for their changes to go through CI.
+
+The feedback loop Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor -> Plan -> Code
+
+But mostly it's just code -> build -> code etc.
+
 
 
 
