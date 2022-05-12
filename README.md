@@ -6,4 +6,5 @@ Programme: https://devopsdays.org/events/2022-geneva/program
 Two thirds of GDP digitalized, so given our current way of organizing things
 that's quite scary!
 
+Flaky tests - embarrassing re-run the tests.
 
