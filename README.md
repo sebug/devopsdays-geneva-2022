@@ -62,6 +62,12 @@ CI in Tekton - configure a web hook from the repo that triggers the pipeline run
 There is also a dashboard
 
 ## Advanced Authentication patters at the Edge - Denis Jannot
+Put a proxy in front, service mesh for in-between-apps.
+
+Envoy: filter chain
+
+OPA - Open Policy Agent for authentication.
+
 
 
 
